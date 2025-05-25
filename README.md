@@ -14,28 +14,6 @@ A lightweight stream-based rank transformation tool leveraging non-linear reduct
 
 ---
 
-## 📺 Preview
-
-![Preview](https://user-images.githubusercontent.com/your_user_id/your_screenshot.png)
-
----
-
-## 🚀 Live Deployment
-
-Hosted via Streamlit Community Cloud:  
-🔗 [https://ba-rank-cal-bluesjamgt.streamlit.app](https://ba-rank-cal-bluesjamgt.streamlit.app)
-
----
-
-## 🧠 Usage Logic
-
-> "To predict is not to assume — it's to preempt what remains unclaimed."
-
-Simply adjust your current index.  
-The system will resolve the transformation based on proprietary base-slope compression (BSC).
-
----
-
 ## 📦 Installation
 
 ```bash
